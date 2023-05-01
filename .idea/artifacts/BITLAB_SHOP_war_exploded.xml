@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="BITLAB_SHOP:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/BITLAB_SHOP_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BITLAB_SHOP" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="BITLAB_SHOP/web/Web" />
+    </root>
+  </artifact>
+</component>
